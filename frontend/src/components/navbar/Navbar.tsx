@@ -4,10 +4,10 @@ import './navbar.css';
 const Navbar: React.FC = () => {
   return (
     <>
-      <h5 className="text-nav" style={{ fontFamily: 'Rock Salt, cursive' }}>
+      <h5 className="advertisement-nav" style={{ fontFamily: 'Rock Salt, cursive' }}>
         The Classic Rock Band from the 70s The Doors and The Imaginary Tour
       </h5>
-      <nav className="navbar navbar-light bg-dark ">
+      <nav className="main-nav navbar navbar-light bg-dark">
         <div className="container-fluid px-3">
           <Link className="navbar-brand" to="/" style={{ transform: 'rotate(-10deg)', display: 'inline-block' }}>
             <span className="seven" style={{ fontFamily: 'Rock Salt, cursive' }}>

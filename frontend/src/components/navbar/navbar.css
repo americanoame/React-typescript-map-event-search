@@ -1,4 +1,4 @@
-.text-nav {
+.advertisement-nav {
   text-align: center;
   background-color: rgb(14, 14, 14);
   margin: 0 auto;
@@ -8,7 +8,7 @@
   padding: 5px;
 }
 
-.navbar {
+.main-nav {
   margin: 0 auto;
   width: 100%;
   max-width: 1200px;

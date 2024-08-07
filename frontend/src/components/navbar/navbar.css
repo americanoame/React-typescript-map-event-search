@@ -1,0 +1,38 @@
+.text-nav {
+  text-align: center;
+  background-color: rgb(14, 14, 14);
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  color: #fff;
+  padding: 5px;
+}
+
+.navbar {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.seven {
+  color: red;
+}
+
+.guitar {
+  font-size: 30px;
+}
+
+.classic {
+  color: rgb(3, 3, 252);
+}
+
+.s-title {
+  font-size: 25px;
+  color: red;
+}
+
+@media screen and (max-width: 901px) {
+  .text-nav {
+    display: none;
+  }
+}
